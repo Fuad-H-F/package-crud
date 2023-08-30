@@ -1,0 +1,19 @@
+{
+    "name": "fuad/crud-generator",
+    "require": {
+        "fuad/crud-generator": "dev-master"
+    },    
+    "autoload": {
+        "psr-4": {
+            "fuad\\CrudGenerator\\": "src/"
+        }
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../packages/fuad/crud-generator"
+            
+        }
+    ],    
+    "minimum-stability": "dev"
+}
