@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Packages\Fuad\CrudGenerator;
+namespace packages\fuad\crudgenerator;
 
 use Illuminate\Support\ServiceProvider;
 use Packages\Fuad\CrudGenerator\Console\Commands\GenerateCrudCommand;

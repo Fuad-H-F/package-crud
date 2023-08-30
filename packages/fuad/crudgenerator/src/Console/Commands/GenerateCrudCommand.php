@@ -1,6 +1,6 @@
 <?php
 
-namespace Packages\Fuad\CrudGenerator\Console\Commands;
+namespace packages\fuad\crudgenerator\src\Console\Commands;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Artisan;
