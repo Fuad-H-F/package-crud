@@ -11,7 +11,7 @@
     "repositories": [
         {
             "type": "path",
-            "url": "../packages/fuad/crud-generator"
+            "url": "../packages/fuad/crudgenerator"
             
         }
     ],    
